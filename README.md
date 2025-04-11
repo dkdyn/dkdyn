@@ -1,4 +1,4 @@
-## Hi there 👋
+## engineering redefined with open-source creativity
 
 <!--
 **dkdyn/dkdyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
